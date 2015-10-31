@@ -1,6 +1,6 @@
 {
   "name": "garage_door_core",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "license": "MIT",
   "dependencies": {
     "good": "^6.3.0",
